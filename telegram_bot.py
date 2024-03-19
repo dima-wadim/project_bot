@@ -5,7 +5,7 @@ from pydub import AudioSegment
 
 
 # Ниже нужно вставить токен, который дал BotFather при регистрации
-token = '2007628239:AAEF4ZVqLiRKG7j49EC4vaRwXjJ6DN6xng8'  # <<< Ваш токен
+token = 'ваш токен'  # <<< Ваш токен
 
 bot = telebot.TeleBot(token)
 
